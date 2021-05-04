@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Feed\'s</string>
+    <string name="sign_in_using_your_google_account">Sign In using your google account</string>
+    <string name="add_new_post">Add new post</string>
+    <string name="what_s_on_your_mind">What\'s on your mind?</string>
+    <string name="post">Post</string>
+    <string name="comment_here">Comment here</string>
+    <string name="post_it">Post it</string>
+</resources>

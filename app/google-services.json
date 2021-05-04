@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "925195193566",
+    "project_id": "the-feeds-devansh",
+    "storage_bucket": "the-feeds-devansh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925195193566:android:d7283135397b9e9b32464f",
+        "android_client_info": {
+          "package_name": "com.devanshthakur.thefeeds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925195193566-c7mg0568u9rhhidplk14bnru8copi05s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcuhCl1fS8ySaXdfdIRmFJuhMIwicxzpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925195193566-c7mg0568u9rhhidplk14bnru8copi05s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activities.CreatePostActivity">
+
+    <EditText
+        android:id="@+id/post_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/edit_text_bg_shape"
+        android:gravity="top"
+        android:inputType="textNoSuggestions"
+        android:hint="@string/what_s_on_your_mind"
+        android:padding="14dp" />
+
+    <Button
+        android:id="@+id/post_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="9dp"
+        android:text="@string/post"
+        android:textSize="18sp" />
+
+
+</LinearLayout>
